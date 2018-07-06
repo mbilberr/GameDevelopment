@@ -1,0 +1,126 @@
+============================
+1. PEACE THROUGH ANNIHILATION
+============================
+
+Ashenfury is weak and his surroundings are overgrown. The world has been demolished and he's not sure why.
+Beside him sits the remains of Deminthus long ago rotted away.
+Ashenfury himself has withered into an ancient orc barely capable of standing on his own.
+
+=============
+2. Start
+=============
+Ashenfury's home
+	BOOKSHELF [AN ILLEGIBLE TOME, ILLEGIBLE SCROLL (OF DESTINY) ]
+	SUNDIAL [SAVE MECHANISM?]
+	SPENT HEARTHSTONE [A HEARTHSTONE MADE OF OBSIDIAN]
+
+
+==============
+3. ICE / WATER
+==============
+Who   - Knithawk
+What  - Release him from his tomb
+Why   - He can read the book and scroll
+Side  - Talk with the tomb's guardian to learn something
+Where - Knithawk's tomb
+Items
+	Knithawk's skull - Tie skull to belt using mohawk for entertainment
+	Mana biscuits - Allows the casting of a spell
+
+Details - The inside of the tomb is completely blackened and there are disfigured ice sculptures of all sorts of creatures
+
+==============
+4. FIRE
+==============
+Who  - Leyujin
+what - A pile of alliance skulls?
+why  - Acts as a beacon
+Side - 
+Where - Leyujin's memorial site
+Items
+	Peace pipe - Allow deep meditation and visiting the spirit realm. Unfortunately no herb
+
+Details - Leyujin was immortalized 
+
+==============
+5. WIND
+==============
+Who   - Nika
+what  - Uncover the spy
+why   - Gain access to alliance smuggling route through the forest
+Side  - 
+Where - Library
+Items
+	A book of necromancy - The book burns and whispers, you must take it
+	Equipment - You can either disenchant the equipment or take it
+	A smugglers quest log written in human - Ends up being Nika's quest log in the last days of the resistance 
+
+Details - The library has seen better days and is in a state of dissarray
+
+==============
+6. EARTH
+==============
+Who   - The forsaken [Anaie, Greebo, and many others]
+what  - Greebo is keeping the other forsaken alive by his power/will alone. They have turned mad and dance like marrionettes.
+why   - They demand I curb the wolf population which is eating their bones
+Side  -
+Where - A forest
+Items
+	Choice to leave or keep knithawk's skull
+	Some herb to smoke
+
+Details - 
+
+==============
+7. WOLVES
+==============
+Who   - Abric
+what  - 
+why   - 
+Side  -
+Item  - Headdress
+Where - Guild hall
+
+Details - The guild hall had become grand and in time every square inch was carved with the mighty feats of the Grim. 
+
+==============
+8. Bloodlust
+==============
+Who   - Deminthus
+what  - Regain shamanic powers
+why   - 
+Side  -
+Where - Throne room
+Items
+	Totem of insight
+	Elf ear (+1 hp)
+
+Details - Deminthus h
+
+==============
+8. End
+==============
+Who   - Demons
+what  - The keepers of time come to help
+why   - 
+Side  -
+Where - Throne room
+Items
+
+Details - 
+
+
+==============
+8. Epilogue
+==============
+Who   - 
+what  - 
+why   - 
+Side  -
+Where - 
+Items
+	
+Details - 
+
+
+

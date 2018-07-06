@@ -1,0 +1,15 @@
+items have a shit ton of fields to describe themselves but ash doesn't know anything but the look weight and smell until the player has camped, 
+visited the library, asked an npc, or somehow gained more information.
+
+size
+weight
+smell
+material
+value
+magical	(boolean)
+age
+nourishment
+intoxicant
+poisonous
+
+potions last until you sleep/camp

@@ -1,0 +1,12 @@
+1. Sounds
+
+footsteps
+attacks
+
+
+2. Intro video
+3. Character art
+4. Tile art
+5. Inventory
+6. Quest
+7. Finish menu

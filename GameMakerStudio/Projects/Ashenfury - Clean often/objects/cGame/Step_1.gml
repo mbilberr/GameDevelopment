@@ -1,0 +1,1 @@
+global.DeltaTime = (60 / 1000000) * delta_time;

@@ -1,0 +1,9 @@
+text = "This is a test of the text system";
+page = 0;
+xBuffer = 10;
+yBuffer = 10;
+boxWidth = sprite_get_width(spr_textbox);
+boxHeight = sprite_get_height(spr_textbox);
+stringHeight = string_height(text);
+creator = noone;
+charCount = 0;
